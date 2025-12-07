@@ -4,7 +4,7 @@
 }
 .blog-content {
     margin: 10px 0 10px 0;
-     background-color: blue;
+     background-color: rgb(255, 17, 0);
 }
 .image-section {
     margin: 30px 40px 30px 40px;
@@ -17,7 +17,7 @@
 }
 
 .footer-section {
-    background-color: blue;
+    background-color: rgb(255, 81, 0);
     padding: 50px;
 }
 .footer-content {
